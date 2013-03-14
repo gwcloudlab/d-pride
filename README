@@ -1,0 +1,36 @@
+
+                            d-pride
+        a new scheduler considering application priority
+
+Developer
+---------
+Jinho Hwang (hwang.jinho@gmail.com)
+http://home.gwu.edu/~jinho10
+The George Washington University
+
+What is it?
+-----------
+
+d-pride is a priority-based scheduler. 
+
+For more information see https://github.com/jinho10/d-pride
+
+Compile
+-------
+
+linux-3.1.1
+xen-4.1.2
+
+Running
+-------
+
+check vdi scheduler (code project name)
+
+sudo xm list
+xen_scheduler          : vdi
+
+Paper
+-----
+Jinho Hwang and Timothy Wood, 
+Adaptive Dynamic Priority Scheduling for Virtual Desktop Infrastructures
+20th IEEE/ACM International Workshop Quality of Service (IWQoS), 2012

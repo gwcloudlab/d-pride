@@ -1,0 +1,1 @@
+../../tools/libxc/xc_cpu_hotplug.c
