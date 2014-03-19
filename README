@@ -1,4 +1,3 @@
-
                             d-pride
         a new scheduler considering application priority
 
@@ -34,3 +33,4 @@ Paper
 Jinho Hwang and Timothy Wood, 
 Adaptive Dynamic Priority Scheduling for Virtual Desktop Infrastructures
 20th IEEE/ACM International Workshop Quality of Service (IWQoS), 2012
+http://faculty.cs.gwu.edu/~timwood/papers/IWQoS12-scheduling.pdf
